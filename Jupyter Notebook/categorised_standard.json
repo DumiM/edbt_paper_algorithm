@@ -1,0 +1,8 @@
+{
+    "loc": ["site","building","level","zone"],
+    "equip": ["fan cooler","heating hot water", "chiller"],
+    "ref": ["equipRef","compRef","pointRef"],
+    "comp": ["exhaust","outside","return","chilled water", "heating hot water", "chiller", "damper"],
+    "attr": ["entering","leaving","header", "air", "supply", "flow", "mixed", "flow", "wet"],
+    "point": ["temp","volume", "pressure", "co2"]
+}

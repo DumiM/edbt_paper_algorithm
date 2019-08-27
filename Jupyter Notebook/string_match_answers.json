@@ -1,0 +1,8 @@
+{
+    "Outside": "outside",
+    "HHW": "heating hot water",
+    "Leaving": "leaving",
+    "Mixed": "air",
+    "Damper": "damper",
+    "Flow": "flow"
+}

@@ -1,0 +1,51 @@
+[{
+    "data_point": "FC 1_Exhaust Air Temp",
+    "location": "",
+    "equip": {
+        "type": "Fan Cooler",
+        "ref": "1"
+    },
+    "comp": {
+        "type": "Exhaust",
+        "ref": ""
+    },
+    "attr": "Air",
+    "point": "Temp"
+}, {
+    "data_point": "Chiller 2_CHW 2B Leaving Temp",
+    "location": "",
+    "equip": {
+        "type": "Chiller",
+        "ref": "2"
+    },
+    "comp": {
+        "type": "Chilled Water",
+        "ref": "2B"
+    },
+    "attr": "Leaving",
+    "point": "Temp"
+}, {
+    "data_point": "CAMBERWELL GRAMMAR / MIDDLE SCHOOL / FIRST FLOOR / AC-1-06 Yr 6 Staff Office / ZONE TEMPERATURE",
+    "location": {
+        "site": "CAMBERWELL GRAMMAR",
+        "building": "MIDDLE SCHOOL",
+        "level": "FIRST FLOOR",
+        "zone": "AC-1-06 Yr 6 Staff Office"
+    },
+    "equip": "",
+    "comp": "",
+    "attr": "",
+    "point": "Temp"
+}, {
+    "data_point": "CAMBERWELL GRAMMAR / WHEELTON CENTRE / AIR CONDITIONING / LEVEL 1 / W123 Murray Anderson's Office / FAN STATUS",
+    "location": {
+        "site": "CAMBERWELL GRAMMAR",
+        "building": "WHEELTON CENTRE",
+        "level": "LEVEL 1",
+        "zone": "W123 Murray Anderson's Office"
+    },
+    "equip": "Fan",
+    "comp": "",
+    "attr": "",
+    "point": "Status"
+}]

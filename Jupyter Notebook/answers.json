@@ -1,0 +1,58 @@
+{
+    "0": {
+        "example": "FC 1_Exhaust Air Temp",
+        "answer": {
+            "fields": ["FC", "1", "Exhaust", "Air", "Temp"],
+            "values": ["fan cooler", "equipRef", "exhaust", "air", "temp"],
+            "types": ["equip", "ref", "comp", "attr", "point"]
+        }
+    },
+    "1": {
+        "example": "FC 4_Supply Air Fan Volume",
+        "answer": {
+            "fields": ["FC", "4", "Supply", "Air", "Volume"],
+            "values": ["fan cooler", "equipRef", "supply", "air", "volume"],
+            "types": ["equip", "ref", "attr", "attr", "point"]
+        }
+    },
+    "2": {
+        "example": "Chiller 1_CHW 1 Entering Temp",
+        "answer": {
+            "fields": ["Chiller", "1", "CHW", "1", "Entering", "Temp"],
+            "values": ["chiller", "equipRef", "chilled water", "compRef", "entering", "temp"],
+            "types": ["equip", "ref", "comp", "ref", "attr", "point"]
+        }
+    },
+    "3": {
+        "example": "Chillers_Common Header Temp",
+        "answer": {
+            "fields": ["Chillers", "Header", "Temp"],
+            "values": ["chiller", "header", "temp"],
+            "types": ["equip", "attr", "point"]
+        }
+    },
+    "4": {
+        "example": "Chillers_Field Wet/Wet Diff.Pressure",
+        "answer": {
+            "fields": ["Chillers", "Wet", "Pressure"],
+            "values": ["chiller", "wet", "pressure"],
+            "types": ["equip", "attr", "point"]
+        }
+    },
+    "5": {
+        "example": "FC 2_Return Air CO2",
+        "answer": {
+            "fields": ["FC", "2", "Return", "Air", "CO2"],
+            "values": ["fan cooler", "equipRef", "return", "air", "co2"],
+            "types": ["equip", "ref", "comp", "attr", "point"]
+        }
+    },
+    "6": {
+        "example": "FC 6_Change Room 2.10",
+        "answer": {
+            "fields": ["FC", "6"],
+            "values": ["fan cooler", "equipRef"],
+            "types": ["equip", "ref"]
+        }
+    }
+}
