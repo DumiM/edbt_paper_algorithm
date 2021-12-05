@@ -7,3 +7,4 @@ The goal is to produce an algorithm/methodology that standardises a list of sens
 
  - Relavant papers are included in the [Literature](/Literature/) folder
 - Sample data are also included in the ```Jupyter Notebook``` folder.
+- a mock UI is is included in the [ui](/ui/) folder
